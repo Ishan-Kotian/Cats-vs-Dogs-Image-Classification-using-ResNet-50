@@ -67,21 +67,6 @@ cats-dogs-resnet50/
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# Step 1: Clone the repo
-git clone https://github.com/your-username/cats-dogs-resnet50.git
-cd cats-dogs-resnet50
-
-# Step 2: Install dependencies
-pip install -r requirements.txt
-
-# Step 3: Run the notebook
-jupyter notebook notebooks/cats_dogs_resnet50.ipynb
-```
-
----
 
 ## 📌 Requirements
 
