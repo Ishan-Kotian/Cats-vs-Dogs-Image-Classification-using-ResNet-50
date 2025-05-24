@@ -87,6 +87,6 @@ cats-dogs-resnet50/
 
 ## 📎 References
 
-* [Kaggle Dataset: Dogs vs. Cats](https://www.kaggle.com/competitions/dogs-vs-cats)
+* [Kaggle Dataset: Dogs vs. Cats](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition)
 * [ResNet-50 Paper](https://arxiv.org/abs/1512.03385)
 
