@@ -3,7 +3,7 @@
 This project applies deep learning and transfer learning techniques to classify images of cats and dogs. Leveraging the power of a pre-trained **ResNet-50** model, the solution achieves high classification accuracy on the Kaggle Dogs vs. Cats dataset.
 
 > 📎 **View Full Notebook on Kaggle:**  
-> [Cats & Dogs Image Classification | ResNet-50 by lykin22](https://www.kaggle.com/code/lykin22/cats-dogs-image-classification-resnet-50)
+> [Cats & Dogs Image Classification | ResNet-50](https://www.kaggle.com/code/lykin22/cats-dogs-image-classification-resnet-50)
 
 
 ---
